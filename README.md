@@ -1,6 +1,12 @@
 # ImageStitchOverview
 详尽地介绍关于图像拼接的知识点
 
+# 基础知识
+
+[Multiple View Geometry](http://users.cecs.anu.edu.au/~hartley/Papers/CVPR99-tutorial/tut_4up.pdf)
+
+
+
 # 论文
 
 2007 [Recognising Panoramas](http://matthewalunbrown.com/papers/iccv2003.pdf)
